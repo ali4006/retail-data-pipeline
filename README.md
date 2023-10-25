@@ -23,7 +23,6 @@ Your Astro project contains the following files and folders:
 - include: This folder contains any additional files that you want to include as part of your project. It is empty by default.
 - packages.txt: Install OS-level packages needed for your project by adding them to this file. It is empty by default.
 - requirements.txt: Install Python packages needed for your project by adding them to this file. It is empty by default.
-- airflow_settings.yaml: Use this local-only file to specify Airflow Connections, Variables, and Pools instead of entering them in the Airflow UI as you develop DAGs in this project.
 
 ## Deploy Your Project Locally
 
