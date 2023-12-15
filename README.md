@@ -13,6 +13,9 @@
 6) Implement the last data quality checks to ensure metrics are correct
 7) Create a Dashboard that shows data in action using Metabase! http://localhost:3000/
 
+## Dashboard
+
+![Alt text](include/report.png)
 
 ## Project Contents
 
